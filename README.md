@@ -110,7 +110,7 @@ I'm always excited to discuss data science, machine learning, and innovative way
 
 LinkedIn: https://www.linkedin.com/in/poojachoudhary7408/
 
-GitHub: github.com/pc2404-ml
+GitHub: https://github.com/pc2404-ml
 
 Kaggle: https://www.kaggle.com/poojachoudhary2404
 
