@@ -108,7 +108,7 @@ Problem-Solving:
 ## 📫 Let's Connect!
 I'm always excited to discuss data science, machine learning, and innovative ways to solve business problems with data.
 
-LinkedIn: linkedin.com/in/poojachoudhary7408
+LinkedIn: https://www.linkedin.com/in/poojachoudhary7408/
 
 GitHub: github.com/pc2404-ml
 
